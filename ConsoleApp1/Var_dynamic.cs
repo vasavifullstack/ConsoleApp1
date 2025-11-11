@@ -54,6 +54,7 @@ class var_dynamic
         dynamic d_someValue2 = false;
         Console.WriteLine(d_someValue2);
 
+
         //Console.WriteLine(someValue2.GetType());
 
 
