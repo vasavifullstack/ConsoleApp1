@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Condition</StartupObject>
+    <StartupObject>Looping</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1.BasicProgram.cs" />
+    <Compile Include="10.looping.cs" />
     <Compile Include="2.DataTypes.cs" />
     <Compile Include="4.String.cs" />
     <Compile Include="5.typeconversation.cs" />
